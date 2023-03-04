@@ -1,0 +1,42 @@
+body {
+  background-image: url("cafe.jfif");
+  background-size: cover;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  text-align: center;
+}
+h1 {
+  color: aliceblue ;
+  margin-top: 20px;
+  margin-bottom: 10px;}
+
+h2 {
+  color: aliceblue;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 50px;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+  font-weight: bold;
+  margin-bottom: 7px;
+}
+#incrementBtn {
+  background-color: darkkhaki;
+  
+}
+#saveBtn {
+  background: lightgray;
+}
+p {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
